@@ -1,0 +1,63 @@
+<mso:customUI xmlns:mso="http://schemas.microsoft.com/office/2009/07/customui">
+   <mso:ribbon>
+   <mso:qat/>
+      <mso:tabs>
+         <mso:tab idQ="mso:TabHome" visible="false"/>
+         <mso:tab id="mso_c1.23401CCC" label="My Favourites" insertBeforeQ="mso:TabInsert">
+            <mso:group id="mso_c2.23401CCC" label="File tab" imageMso="ViewFullScreenView" highDensityLayout="true">
+               <mso:control idQ="mso:FileSendAsAttachment" visible="true"/>
+               <mso:control idQ="mso:AccessibilityChecker" visible="true"/>
+               <mso:control idQ="mso:FileOpenRecentFile" visible="true"/>
+            </mso:group>
+            <mso:group id="mso_c3.23414227" label="Alignment" imageMso="LeftArrow2" autoScale="true">
+               <mso:control idQ="mso:AlignTopExcel" visible="true"/>
+               <mso:control idQ="mso:AlignMiddleExcel" visible="true"/>
+               <mso:control idQ="mso:AlignBottomExcel" visible="true"/>
+               <mso:control idQ="mso:WrapText" visible="true"/>
+               <mso:control idQ="mso:BorderDoubleBottom" visible="true"/>
+               <mso:control idQ="mso:BorderThickOutside" visible="true"/>
+            </mso:group>
+            <mso:group id="mso_c4.2341A4DF" label="Workbook" imageMso="TableSelect" autoScale="true">
+               <mso:control idQ="mso:SortCustomExcel" visible="true"/>
+               <mso:control idQ="mso:ConditionalFormattingHighlightTextContaining" visible="true"/>
+               <mso:gallery idQ="mso:ConditionalFormattingColorScalesGallery" showInRibbon="false" visible="true"/>
+               <mso:control idQ="mso:SheetColumnsDelete" visible="true"/>
+               <mso:control idQ="mso:SheetRowsDelete" visible="true"/>
+               <mso:control idQ="mso:FormatCellsNumberDialog" visible="true"/>
+            </mso:group>
+            <mso:group id="mso_c5.2342E20D" label="Charts" imageMso="Chart3DColumnChart" highDensityLayout="true">
+               <mso:gallery idQ="mso:ChartTypeColumnInsertGallery" showInRibbon="false" visible="true"/>
+               <mso:gallery idQ="mso:ChartTypeLineInsertGallery" showInRibbon="false" visible="true"/>
+               <mso:control idQ="mso:InsertLineSparkline" visible="true"/>
+               <mso:control idQ="mso:InsertColumnSparkline" visible="true"/>
+               <mso:control idQ="mso:InsertWinLossSparkline" visible="true"/>
+            </mso:group>
+            <mso:group id="mso_c6.23434764" label="Other" imageMso="TagMarkComplete" autoScale="true">
+               <mso:control idQ="mso:PrintAreaSetPrintArea" visible="true"/>
+               <mso:control idQ="mso:CalculateSheet" visible="true"/>
+               <mso:control idQ="mso:RefreshAll" visible="true"/>
+               <mso:control idQ="mso:Spelling" visible="true"/>
+               <mso:gallery idQ="mso:ViewFreezePanesGallery" showInRibbon="false" visible="true"/>
+            </mso:group>
+            <mso:group id="mso_c1.234A023A" label="Review" imageMso="Delete" autoScale="true">
+               <mso:control idQ="mso:ReviewNewComment" visible="true"/>
+               <mso:control idQ="mso:ReviewDeleteComment" visible="true"/>
+               <mso:control idQ="mso:ReviewPreviousComment" visible="true"/>
+               <mso:control idQ="mso:ReviewNextComment" visible="true"/>
+            </mso:group>
+            <mso:group id="mso_c2.234A3E6F" label="Macros" imageMso="ResultsPaneStartFindAndReplace" highDensityLayout="true">
+               <mso:control idQ="mso:PlayMacro" visible="true"/>
+               <mso:control idQ="mso:MacroRecord" visible="true"/>
+            </mso:group>
+         </mso:tab>
+         <mso:tab idQ="mso:TabInsert" visible="false"/>
+         <mso:tab idQ="mso:TabPageLayoutExcel" visible="false"/>
+         <mso:tab idQ="mso:TabFormulas" visible="false"/>
+         <mso:tab idQ="mso:TabData" visible="false"/>
+         <mso:tab idQ="mso:TabReview" visible="false"/>
+         <mso:tab idQ="mso:TabView" visible="false"/>
+         <mso:tab idQ="mso:TabAddIns" visible="false"/>
+         <mso:tab idQ="mso:TabBackgroundRemoval" visible="false"/>
+      </mso:tabs>
+   </mso:ribbon>
+</mso:customUI>
