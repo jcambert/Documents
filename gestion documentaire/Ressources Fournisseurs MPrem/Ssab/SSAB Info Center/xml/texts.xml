@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+
+	<countrynames>
+		<zh-CN><![CDATA[Chinese/中文]]></zh-CN>
+		<nl><![CDATA[Dutch/Nederlands]]></nl>
+		<en><![CDATA[English]]></en>
+		<fr><![CDATA[French/Français]]></fr>
+		<de><![CDATA[German/Deutsch]]></de>
+		<it><![CDATA[Italian/Italiano]]></it>
+		<pt-PT><![CDATA[Portuguese/Português]]></pt-PT>
+		<ru><![CDATA[Russian/Pусский]]></ru>
+		<es><![CDATA[Spanish/Español]]></es>
+		<sv><![CDATA[Swedish/Svenska]]></sv>
+	 </countrynames>
+
+	<loading>
+		<en><![CDATA[Looking for updates online. Click here to cancel.]]></en>
+		<de><![CDATA[Looking for updates online. Click here to cancel.]]></de>
+		<fr><![CDATA[Looking for updates online. Click here to cancel.]]></fr>
+		<es><![CDATA[Looking for updates online. Click here to cancel.]]></es>
+		<sv><![CDATA[Letar efter uppdateringar online. Klicka här för att avbryta.]]></sv>
+		<nl><![CDATA[Looking for updates online. Click here to cancel.]]></nl>
+		<it><![CDATA[Looking for updates online. Click here to cancel.]]></it>
+		<zh-CN><![CDATA[Looking for updates online. Click here to cancel.]]></zh-CN>
+		<pt-PT><![CDATA[Looking for updates online. Click here to cancel.]]></pt-PT>
+		<ru><![CDATA[Looking for updates online. Click here to cancel.]]></ru>
+	</loading>
+
+	<chooseLang>
+		<en><![CDATA[Language]]></en>
+		<de><![CDATA[Sprache]]></de>
+		<fr><![CDATA[Langue]]></fr>
+		<es><![CDATA[Idioma]]></es>
+		<sv><![CDATA[Språk]]></sv>
+		<nl><![CDATA[Taal]]></nl>
+		<it><![CDATA[Lingua]]></it>
+		<zh-CN><![CDATA[语言]]></zh-CN>
+		<pt-PT><![CDATA[Linguagem]]></pt-PT>
+		<ru><![CDATA[язык]]></ru>
+	</chooseLang>
+	
+	<firstTexts>
+		<en><![CDATA[Start by selecting a tab, either "SSAB" or one of our product brands, then tick the box for one or more categories. In the search results, you will be able to select the language version of each document. If you are connected to the Internet you will automatically have access to more information and updated files through www.ssab.com.]]></en>
+		<de><![CDATA[Wählen Sie zunächst einen Begriff aus, entweder "SSAB" oder den Reiter mit dem gewünschten Markennamen. Markieren Sie danach eine oder mehrere Kategorien. In den Suchergebnissen wählen Sie die Sprache für die einzelnen Dokumente aus. Falls Sie mit dem Internet verbunden sind, haben Sie automatisch über www.ssab.com Zugang zu weiteren Informationen und aktuellen Dokumenten.]]></de>
+		<fr><![CDATA[Sélectionnez un onglet, soit « SSAB », soit l'une de nos marques de produits, puis cochez la case d'une ou de plusieurs catégories. Dans les résultats de recherche, vous pourrez sélectionner la langue de chaque document. Si vous êtes connecté à internet vous aurez automatiquement accès à plus d’information et à décharger des fichiers à travers www.ssab.com.]]></fr>
+		<es><![CDATA[Empiece seleccionando una pestaña o “SSAB”, o bien una de nuestras marcas de producto, y luego marque el cuadro para una o más categorías. En los resultados buscados podrá seleccionar el idioma de cada documento. Si usted está conectado a Internet, automáticamente tendrá acceso a más información y podrá actualizar sus archivos a través de www.ssab.com.]]></es>
+		<sv><![CDATA[Börja med att välja flik nedan, antingen "SSAB" eller något av våra produktvarumärken, och kryssa därefter i en eller flera kryssrutor för att välja kategori. I sökresultatet kan du se vilka språk varje dokument finns tillgängligt på. Om du är uppkopplad mot internet, kommer du automatiskt att ha tillgång till mer information och uppdaterade filer genom www.ssab.com.]]></sv>
+		<nl><![CDATA[Begin door een tabblad te selecteren, ofwel "SSAB" ofwel één van onze productmerken en vink één of meerdere categorieën aan. In de zoekresultaten kunt u de taalversie van ieder document selecteren. Via onze website www.ssab.com heeft u automatisch toegang tot meer informatie en geactualiseerde bestanden.]]></nl>
+		<it><![CDATA[Inizia selezionando una parola del menù, SSAB o uno dei nostri marchi, poi seleziona una o più categorie. Nei risultati della ricerca, potrai scegliere la lingua, per ogni documento. Se siete collegati in Internet avrete l’accesso automatico a maggiori informazioni ed a file aggiornati mediante www.ssab.com.]]></it>
+		<zh-CN><![CDATA[从选择一个选项卡开始，可以选择“SSAB”或我们的产品品牌之一，然后勾选一个或多个类别的框。在搜索结果中，将能够选择每个文档的语言版本。 如果您有网络连接，光盘将会自动从www.ssab.com更新下载最新版本的资料。]]></zh-CN>
+		<pt-PT><![CDATA[Seleccione “SSAB” ou uma das marcas dos produtos e escolha uma, ou mais categorias. Na pesquisa de resultados poderá seleccionar a versão de cada documento. Se estiver ligado à internet, automaticamente terá acesso a arquivos e mais informações através do endereço  www.ssab.com.]]></pt-PT>
+		<ru><![CDATA[Для этого нужно выбрать вкладку "SSAB" или вкладку одной из наших торговых марок, а затем отметить ячейки необходимых категорий. В результатах поиска есть возможность выбирать язык документа. Если Вы подключены  к сети Интернет, то более подробную информацию Вы сможете получить на сайте www.ssab.com.]]></ru>
+	</firstTexts>
+	
+	<onlineDisclaimer>
+		<en><![CDATA[You are connected to www.ssab.com]]></en>
+		<de><![CDATA[Sie sind mit www.ssab.com verbunden.]]></de>
+		<fr><![CDATA[Vous êtes transféré à www.ssab.com]]></fr>
+		<es><![CDATA[Usted está conectado a www.ssab.com]]></es>
+		<sv><![CDATA[Du är uppkopplad mot www.ssab.com]]></sv>
+		<nl><![CDATA[U bent verbonden met www.ssab.com]]></nl>
+		<it><![CDATA[Siete collegati a www.ssab.com]]></it>
+		<zh-CN><![CDATA[正在链接到www.ssab.com]]></zh-CN>
+		<pt-PT><![CDATA[Está ligado a www.ssab.com]]></pt-PT>
+		<ru><![CDATA[Вы находитесь на сайте www.ssab.com]]></ru>
+	</onlineDisclaimer>
+	
+	<footerAddress><![CDATA[<b>SSAB Head office</b><br>P.O Box 70,<br>Klarabergsviadukten 70, D6<br>101 21 Stockholm, Sweden]]></footerAddress>
+	
+	<footerNumbers><![CDATA[T: +46 8 45 45 700<br>F: +46 8 45 45 725<br>E: <a href='mailto:info@ssab.com'>info@ssab.com</a><br> ]]></footerNumbers>
+	
+	<termsofuse><![CDATA[<font size='24'>Terms of use</font>
+<font size='16'>Restricted Use</font>
+All content included on this CD, such as text, graphics, logos, button icons, images, audio clips and software is the property of SSAB or its content suppliers and is protected by Swedish and international copyright laws. Unauthorized use or distribution of any materials on this CD may violate copyright, trademark, and/or other laws and is subject to civil as well as criminal sanctions.
+This CD or any portion of this CD may not be reproduced, duplicated, copied, sold, resold or otherwise exploited for any commercial use that is not expressly permitted by SSAB.
+You may neither modify, use or transfer the information for any commercial purposes; nor remove any copyright or other proprietary notices from the information.
+SSAB does not grant any expressed or implied right to you under any patents, copyrights, trademarks or trade secret information.
+
+<font size='16'>Disclaimer of Warranties</font>
+The information contained on the CD is provided "as is" without any expressed or implied warranty of any kind including warranties of merchantability, non-infringement of intellectual property, or fitness for any particular purpose. In case SSAB's CD refers to a page of a third party, such reference is solely for the convenience of users, and SSAB shall have no liability for the content or accuracy of any information contained in such web page.
+SSAB shall in no event be liable for any damages whatsoever including, without limitation, indirect, consequential or special damages, such as for loss of revenue, loss of income, or loss of profit, business interruption, or loss of data or loss of information, arising out of the use of or inability to use the information on the CD, even if SSAB has been advised of the possibility of such damages.
+Further, SSAB does not warrant the availability, accuracy or completeness of any information, including but not limited to any text, picture, graphics, link or other item that may be contained within this CD. SSAB may make changes to the content of this CD or to any products described herein at any time without notice. SSAB makes no commitment to update the information or other materials entered on this CD.]]></termsofuse>
+	
+</root>
